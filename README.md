@@ -204,8 +204,8 @@ A short video mockup of the theater is available [here](https://youtu.be/LT72UCe
 
 #
 ### Author
-This project was created by [Nurzhan Berkimbayev](https://github.com/berkimbayev/).
-For any inquiries, feel free to message in [LinkedIn](https://www.linkedin.com/in/berkimbayev/) / [Telegram](https://t.me/nurzhanberkimbayev/) or send an email.
+This project was created by [Nick Toa](https://github.com/oitkenmen/).
+For any inquiries, feel free to message in [LinkedIn](https://linkedin.com/in/oitkenmen/) / [Telegram](https://t.me/oitkenmen/) or send an email.
 
 #
 ### Contributors
